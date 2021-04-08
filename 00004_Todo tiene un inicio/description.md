@@ -1,6 +1,6 @@
 Para evitar errores :x: , antes de utilizar una variable tenemos que darle un valor inicial, es decir, _inicializarla_. 
 
-> Definí una función `ascensor_sobrecargado`, que toma una cantidad de personas y dice si entre todas superan la carga máxima:
+> Define una función `ascensor_sobrecargado`, que tome una cantidad de personas y diga si entre todas superan la carga máxima:
 >
 > ```python
 > ム ascensor_sobrecargado(1)
