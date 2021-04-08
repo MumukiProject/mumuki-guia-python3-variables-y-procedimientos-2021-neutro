@@ -6,6 +6,6 @@ Las variables nos permiten nombrar y reutilizar _valores_. Similar a cómo las f
 primer_mes = "enero"
 ```
 
-...estamos _asignándole_ el valor `"enero"` a la variable `primer_mes`. En criollo, estamos dándole ese valor a la variable. :relieved:
+...estamos _asignándole_ el valor `"enero"` a la variable `primer_mes`. En términos más simples, estamos dándole ese valor a la variable. :relieved:
 
-> Cambiá los lugares donde aparece `3.14159265358979` por la variable `pi` en las funciones que tenemos definidas.
+> Cambia los lugares donde aparece `3.14159265358979` por la variable `pi` en las funciones que tenemos definidas.
