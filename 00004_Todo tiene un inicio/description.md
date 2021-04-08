@@ -12,4 +12,4 @@ True
 > Ah, y ¿cuál es el peso promedio de una persona? ¿Y la carga máxima? Para eso utilizaremos dos variables:
 >
 * `peso_promedio_persona_en_kilogramos`, la cual ya está incializada,
-* `carga_maxima_en_kilogramos` que vas a tener que inicializar en `300` 
+* `carga_maxima_en_kilogramos` que tendrás que inicializar en `300` 
