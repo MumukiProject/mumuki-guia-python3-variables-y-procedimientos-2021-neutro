@@ -6,4 +6,4 @@ x *= y # equivalente a x = x * y
 x -= y # equivalente a x = x - y
 ```
 
-¡Usalos cuando quieras! :wink:
+¡Úsalos cuando quieras! :wink:
