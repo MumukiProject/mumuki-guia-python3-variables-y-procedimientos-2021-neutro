@@ -7,4 +7,4 @@ Ya que vas entendiendo cómo se **asignan** las variables, te traemos algo para 
 >	return numero + 8
 > ```
 >
-> Invocala en la consola y fijate qué sucede.
+> Invócala en la consola y fíjate qué sucede.
