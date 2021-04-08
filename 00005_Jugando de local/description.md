@@ -30,4 +30,4 @@ def puede_llevar(peso_equipaje):
  
 > Como te habrás dado cuenta, nunca nos olvidamos de saludar ¡y ahora no es la excepción!
 
-> Modificá la función `saludar_a` para evitar la repetición de lógica. Para eso utilizá una variable local `final_de_saludo`.
+> Modifica la función `saludar_a` para evitar la repetición de lógica. Para eso utiliza una variable local `final_de_saludo`.
