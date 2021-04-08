@@ -11,7 +11,7 @@ def el_mas_largo_sin_espacios(un_string, otro_string):
     return otro_string_sin_espacios
 ```
 
-Las variables inicializadas dentro de un `def`, conocidas como _variables locales_, no presentan mayor misterio. Sin embargo, hay que tener un particular cuidado :warning: ya que sólo se pueden utilizar dentro del `def` en cuestión. Si quiero referenciarla desde un programa...
+Las variables inicializadas dentro de un `def`, conocidas como _variables locales_, no presentan mayor misterio. Sin embargo, hay que tener particular cuidado :warning: ya que sólo se pueden utilizar dentro del `def` en cuestión. Si quiero referenciarla desde un programa...
 
 ```python
 pregunta = "¿" + un_string_sin_espacios + "?"
