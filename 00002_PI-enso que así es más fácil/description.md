@@ -1,4 +1,4 @@
-Por suerte existe una herramienta que va a simplificar nuestra tarea de ahora en adelante: las _variables_. :grin:
+Por suerte existe una herramienta que simplificará nuestra tarea de ahora en adelante: las _variables_. :grin:
 
 Las variables nos permiten nombrar y reutilizar _valores_. Similar a cómo las funciones nos permiten dar nombres y reutilizar soluciones a problemas más pequeños. Por ejemplo, si hacemos...
 
