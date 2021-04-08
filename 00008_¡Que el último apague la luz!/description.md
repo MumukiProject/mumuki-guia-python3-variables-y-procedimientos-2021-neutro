@@ -8,6 +8,6 @@ def apretar_interruptor():
   luz_prendida = not luz_prendida
 ```
 
-¡Ahora te toca a vos!
+¡Ahora te toca a ti!
 
-> Definí el procedimiento `usar_cierre` para que podamos abrir y cerrar nuestra una mochila. :school_satchel:
+> Define el procedimiento `usar_cierre` para que podamos abrir y cerrar nuestra una mochila. :school_satchel:
