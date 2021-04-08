@@ -1,4 +1,4 @@
-Ya que vas entendiendo cómo se **asignan** las variables, te traemos algo para pensar: ¿qué pasa si intento **usar** una variable a la que nunca le asigné un valor? :scream:
+Ya que vas entendiendo cómo se **asignan** las variables, te traemos algo para pensar: ¿qué sucede si intento **usar** una variable a la que nunca le asigné un valor? :scream:
 
 > ¡Averigüémoslo! Tenemos esta función definida:
 > 
