@@ -1,4 +1,4 @@
-¿Notaste algo distinto en la "función" del ejercicio anterior :mag:? Veámosla nuevamente:
+¿Has notado algo distinto en la "función" del ejercicio anterior :mag:? Veámosla nuevamente:
 
 ```python
 def pasar_un_dia_normal():
