@@ -1,4 +1,4 @@
-Mirá el siguiente programa con atención :eyes: :
+Mira el siguiente programa con atención :eyes: :
 
 ```python
 volumen = 40
@@ -15,4 +15,4 @@ def es_volumen_saludable():
 	return volumen <= 75
 ```
 
-> Marcá las afirmaciones correctas:
+> Marca las afirmaciones correctas:
